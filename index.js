@@ -1,9 +1,9 @@
-modules.exports = {
+module.exports = {
   arrowParens: "avoid",
   bracketSpacing: true,
-  printWidth: 80
+  printWidth: 80,
   semi: true,
   singleQuote: true,
   tabWidth: 2,
-  trailingComma: "es5",
+  trailingComma: "es5"
 };
